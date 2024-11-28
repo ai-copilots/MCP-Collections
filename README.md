@@ -8,3 +8,4 @@ Model context protocol implementations
 [![DuckDuckGo Search MCP Server](https://img.shields.io/github/stars/kiendoantrung/ddg-server?style=social&label=ddg-server)](https://github.com/kiendoantrung/ddg-server)
 
 
+[![GitHub Repo stars](https://img.shields.io/github/stars/anaisbetts/mcp-youtube?style=social&label=mcp-youtube)](https://github.com/anaisbetts/mcp-youtube)
