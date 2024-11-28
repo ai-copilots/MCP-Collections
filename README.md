@@ -5,4 +5,6 @@ Model context protocol implementations
 
 [![Puppeteer (Browserbase Version)](https://img.shields.io/github/stars/browserbase/browserbase-servers?style=social&label=Puppeteer%20%28Browserbase%20Version%29)](https://github.com/browserbase/browserbase-servers/tree/main/src/puppeteer)
 
+[![DuckDuckGo Search MCP Server](https://img.shields.io/github/stars/kiendoantrung/ddg-server?style=social&label=ddg-server)](https://github.com/kiendoantrung/ddg-server)
+
 
