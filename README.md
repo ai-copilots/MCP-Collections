@@ -11,3 +11,5 @@ Model context protocol implementations
 [![GitHub Repo stars](https://img.shields.io/github/stars/anaisbetts/mcp-youtube?style=social&label=mcp-youtube)](https://github.com/anaisbetts/mcp-youtube)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/kennethnym/claude-prompt-manager?style=social&label=claude-prompt-manager)](https://github.com/kennethnym/claude-prompt-manager)
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/syedazharmbnr1/ClaudeMCPServer?style=social&label=ClaudeMCPServer)](https://github.com/syedazharmbnr1/ClaudeMCPServer)
